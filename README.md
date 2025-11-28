@@ -17,7 +17,7 @@
 
 Bạn có thể tải xuống gói cài đặt tự động đóng gói từ mã nguồn mới nhất tại đây:
 
-> **[BẤM ĐỂ TẢI VỀ (Car_Dealership_Sim_2_Viet_Hoa.zip)](https://github.com/dunngx06/car_dealership_simulator_2_viet_hoa/raw/main/Car%20Dealership%20Simulator%202_Data.rar)**
+> **[BẤM ĐỂ TẢI VỀ (Car_Dealership_Sim_2_Viet_Hoa.rar](https://github.com/dunngx06/car_dealership_simulator_2_viet_hoa/raw/main/Car%20Dealership%20Simulator%202_Data.rar)**
 
 ---
 
@@ -36,7 +36,7 @@ Bạn có thể tải xuống gói cài đặt tự động đóng gói từ mã
 
 Bạn chỉ cần thực hiện thao tác **Copy & Paste**.
 
-**Bước 1:** Tải file `.zip` ở trên về và giải nén 2 lần. Bạn sẽ nhận được thư mục `Car Dealership Simulator 2_Data`.
+**Bước 1:** Tải file `.rar` ở trên về và giải nén 2 lần. Bạn sẽ nhận được thư mục `Car Dealership Simulator 2_Data`.
 
 **Bước 2:** Truy cập thư mục cài đặt game gốc trên máy tính của bạn.
 * *Gợi ý đường dẫn mặc định của Steam:*
